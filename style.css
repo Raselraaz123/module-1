@@ -1,0 +1,45 @@
+audio
+{
+    border: 5px solid palevioletred;
+    width: 300px ;
+    height: 50px;
+    border-radius: 40px;
+} 
+Video{
+    border:10px double goldenrod;
+    
+}
+table{
+    border-collapse: collapse;
+}
+.bt{
+    width: 50%;
+    margin-left: 50px;
+}
+th,td{
+    border: 1px solid grey;
+    padding: 5px 21px;
+    text-align: center;
+}
+th{
+    background-color: black;
+color: white;
+}
+
+
+tfoot td{
+    background-color: silver;
+    text-align:start;
+    color: #ff0505;
+}
+#form-color{
+    background-color: rgb(203, 164, 240);
+    color: white;
+    margin-left: 50px;
+    text-align:;
+}
+#form-color input:focus{
+color: turquoise;
+background-color: rgb(170, 219, 252);
+
+}
